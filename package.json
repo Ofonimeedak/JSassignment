@@ -1,0 +1,14 @@
+{
+  "name": "wild-horizons",
+  "version": "1.0.0",
+  "description": "A data sets of planets most interesting places",
+  "main": "Assignment.js",
+  "scripts": {
+    "start": " node Assignment.js"
+  },
+  "author": "Edak Ofonime",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^17.2.1"
+  }
+}
